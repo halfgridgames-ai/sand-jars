@@ -1,0 +1,200 @@
+L1 hand
+L2 c2 f0 seed 1 ease 1.00 sol 7 nodes 8
+L3 c3 f0 seed 1 ease 1.00 sol 12 nodes 12
+L4 c4 f0 seed 1 ease 1.00 sol 12 nodes 12
+L5 c4 f0 seed 2 ease 0.93 sol 17 nodes 18
+L6 c5 f0 seed 5 ease 0.78 sol 17 nodes 17
+L7 c5 f0 seed 4 ease 0.93 sol 16 nodes 16
+L8 c5 f0 seed 1 ease 0.65 sol 17 nodes 17
+L9 c5 f0 seed 5 ease 0.82 sol 17 nodes 19
+L10 c6 f0 seed 2 ease 0.68 sol 22 nodes 22
+L11 c6 f0 seed 3 ease 0.72 sol 22 nodes 25
+L12 c6 f0 seed 2 ease 0.65 sol 20 nodes 20
+L13 c6 f0 seed 1 ease 0.70 sol 20 nodes 21
+L14 c6 f0 seed 2 ease 0.70 sol 19 nodes 19
+L15 c7 f0 seed 1 ease 0.45 sol 27 nodes 36
+L16 c7 f0 seed 4 ease 0.47 sol 27 nodes 39
+L17 c7 f0 seed 3 ease 0.50 sol 25 nodes 26
+L18 c7 f0 seed 2 ease 0.55 sol 26 nodes 42
+L19 c7 f0 seed 1 ease 0.47 sol 22 nodes 23
+L20 c9 f0 HARD seed 4 ease 0.00 sol 30 nodes 49
+L21 c8 f0 seed 3 ease 0.35 sol 31 nodes 33
+L22 c8 f0 seed 4 ease 0.42 sol 29 nodes 155
+L23 c8 f0 seed 1 ease 0.50 sol 27 nodes 28
+L24 c8 f0 seed 4 ease 0.38 sol 29 nodes 48
+L25 c8 f1 seed 1 ease 0.35 sol 30 nodes 33
+L26 c8 f0 seed 4 ease 0.53 sol 32 nodes 42
+L27 c8 f0 seed 3 ease 0.47 sol 32 nodes 52
+L28 c8 f0 seed 2 ease 0.33 sol 26 nodes 26
+L29 c8 f1 seed 4 ease 0.42 sol 28 nodes 37
+L30 c10 f0 HARD seed 4 ease 0.00 sol 35 nodes 360
+L31 c9 f0 seed 5 ease 0.17 sol 33 nodes 54
+L32 c9 f0 seed 3 ease 0.42 sol 33 nodes 39
+L33 c9 f1 seed 4 ease 0.35 sol 30 nodes 38
+L34 c9 f0 seed 5 ease 0.35 sol 32 nodes 70
+L35 c9 f0 seed 2 ease 0.40 sol 29 nodes 30
+L36 c9 f0 seed 2 ease 0.30 sol 38 nodes 86
+L37 c9 f1 seed 1 ease 0.25 sol 35 nodes 46
+L38 c9 f0 seed 5 ease 0.33 sol 34 nodes 83
+L39 c9 f0 seed 3 ease 0.33 sol 33 nodes 37
+L40 c10 f0 HARD seed 4 ease 0.03 sol 34 nodes 117
+L41 c9 f1 seed 1 ease 0.28 sol 50 nodes 319
+L42 c9 f0 seed 3 ease 0.33 sol 33 nodes 66
+L43 c9 f0 seed 5 ease 0.38 sol 30 nodes 32
+L44 c9 f0 seed 3 ease 0.25 sol 32 nodes 54
+L45 c10 f1 seed 1 ease 0.13 sol 37 nodes 64
+L46 c10 f0 seed 3 ease 0.40 sol 36 nodes 43
+L47 c10 f0 hid seed 4 ease 0.35 sol 33 nodes 48
+L48 c10 f0 seed 2 ease 0.33 sol 37 nodes 39
+L49 c10 f1 hid seed 5 ease 0.17 sol 40 nodes 55
+L50 c11 f0 HARD seed 5 ease 0.00 sol 37 nodes 38
+L51 c10 f0 seed 5 ease 0.38 sol 33 nodes 40
+L52 c10 f0 hid seed 5 ease 0.15 sol 35 nodes 39
+L53 c10 f1 seed 1 ease 0.30 sol 33 nodes 34
+L54 c10 f0 hid seed 2 ease 0.30 sol 30 nodes 31
+L55 c10 f0 seed 1 ease 0.28 sol 41 nodes 65
+L56 c10 f0 seed 3 ease 0.05 sol 35 nodes 62
+L57 c10 f1 hid seed 2 ease 0.28 sol 37 nodes 37
+L58 c10 f0 seed 2 ease 0.38 sol 35 nodes 38
+L59 c10 f0 hid seed 1 ease 0.17 sol 39 nodes 71
+L60 c11 f0 HARD seed 1 ease 0.00 sol 42 nodes 1216
+L61 c10 f2 seed 1 ease 0.15 sol 40 nodes 76
+L62 c10 f0 hid seed 5 ease 0.10 sol 32 nodes 34
+L63 c10 f1 seed 4 ease 0.35 sol 32 nodes 33
+L64 c10 f0 hid seed 2 ease 0.15 sol 39 nodes 338
+L65 c10 f2 seed 4 ease 0.25 sol 37 nodes 48
+L66 c10 f0 seed 2 ease 0.20 sol 34 nodes 78
+L67 c10 f1 hid seed 5 ease 0.23 sol 32 nodes 45
+L68 c10 f0 seed 1 ease 0.35 sol 38 nodes 43
+L69 c10 f2 hid seed 2 ease 0.07 sol 39 nodes 42
+L70 c12 f0 HARD seed 1 ease 0.00 sol 45 nodes 2165
+L71 c11 f1 seed 1 ease 0.00 sol 38 nodes 155
+L72 c11 f0 hid seed 2 ease 0.17 sol 38 nodes 39
+L73 c11 f2 seed 4 ease 0.05 sol 38 nodes 116
+L74 c11 f0 hid seed 2 ease 0.10 sol 46 nodes 181
+L75 c11 f1 seed 2 ease 0.13 sol 39 nodes 86
+L76 c11 f0 seed 2 ease 0.15 sol 36 nodes 39
+L77 c11 f2 hid seed 1 ease 0.03 sol 42 nodes 945
+L78 c11 f0 seed 4 ease 0.13 sol 37 nodes 453
+L79 c11 f1 hid seed 2 ease 0.10 sol 42 nodes 85
+L80 c12 f0 HARD seed 1 ease 0.00 sol 44 nodes 419
+L81 c11 f2 seed 1 ease 0.07 sol 36 nodes 71
+L82 c11 f0 hid seed 5 ease 0.10 sol 41 nodes 104
+L83 c11 f1 seed 4 ease 0.10 sol 48 nodes 188
+L84 c11 f0 hid seed 5 ease 0.05 sol 38 nodes 115
+L85 c11 f2 seed 5 ease 0.23 sol 41 nodes 45
+L86 c11 f0 seed 5 ease 0.17 sol 39 nodes 73
+L87 c11 f1 hid seed 3 ease 0.40 sol 39 nodes 44
+L88 c11 f0 seed 1 ease 0.30 sol 44 nodes 173
+L89 c11 f2 hid seed 4 ease 0.10 sol 51 nodes 62
+L90 c12 f0 HARD seed 1 ease 0.00 sol 41 nodes 160
+L91 c11 f1 seed 1 ease 0.10 sol 37 nodes 74
+L92 c11 f0 hid seed 4 ease 0.07 sol 40 nodes 45
+L93 c11 f2 seed 3 ease 0.10 sol 39 nodes 47
+L94 c11 f0 hid seed 1 ease 0.10 sol 34 nodes 74
+L95 c11 f1 seed 5 ease 0.25 sol 36 nodes 62
+L96 c11 f0 seed 1 ease 0.17 sol 35 nodes 36
+L97 c11 f2 hid seed 1 ease 0.03 sol 47 nodes 133
+L98 c11 f0 seed 5 ease 0.38 sol 47 nodes 131
+L99 c11 f1 hid seed 2 ease 0.25 sol 38 nodes 54
+L100 c12 f0 HARD seed 1 ease 0.00 sol 40 nodes 5051
+L101 c11 f2 seed 2 ease 0.10 sol 43 nodes 86
+L102 c11 f0 hid seed 5 ease 0.23 sol 38 nodes 46
+L103 c11 f1 seed 1 ease 0.15 sol 33 nodes 33
+L104 c11 f0 hid seed 3 ease 0.28 sol 36 nodes 67
+L105 c11 f2 seed 1 ease 0.25 sol 43 nodes 43
+L106 c11 f0 seed 4 ease 0.25 sol 36 nodes 36
+L107 c11 f1 hid seed 2 ease 0.05 sol 50 nodes 4303
+L108 c11 f0 seed 2 ease 0.20 sol 38 nodes 83
+L109 c11 f2 hid seed 3 ease 0.13 sol 42 nodes 147
+L110 c12 f0 HARD seed 4 ease 0.00 sol 45 nodes 413
+L111 c11 f1 seed 4 ease 0.05 sol 41 nodes 78
+L112 c11 f0 hid seed 3 ease 0.17 sol 37 nodes 75
+L113 c11 f2 seed 1 ease 0.23 sol 38 nodes 39
+L114 c11 f0 hid seed 4 ease 0.03 sol 40 nodes 137
+L115 c11 f1 seed 5 ease 0.03 sol 39 nodes 44
+L116 c11 f0 seed 2 ease 0.05 sol 40 nodes 164
+L117 c11 f2 hid seed 3 ease 0.10 sol 41 nodes 121
+L118 c11 f0 seed 3 ease 0.15 sol 39 nodes 62
+L119 c11 f1 hid seed 2 ease 0.05 sol 40 nodes 41
+L120 c12 f0 HARD seed 1 ease 0.00 sol 40 nodes 52
+L121 c12 f2 seed 4 ease 0.03 sol 47 nodes 403
+L122 c12 f0 hid seed 5 ease 0.07 sol 46 nodes 76
+L123 c12 f1 seed 3 ease 0.05 sol 38 nodes 57
+L124 c12 f0 hid seed 1 ease 0.20 sol 44 nodes 72
+L125 c12 f2 seed 2 ease 0.05 sol 43 nodes 145
+L126 c12 f0 seed 1 ease 0.20 sol 39 nodes 80
+L127 c12 f1 hid seed 2 ease 0.20 sol 36 nodes 82
+L128 c12 f0 seed 2 ease 0.25 sol 36 nodes 45
+L129 c12 f2 hid seed 1 ease 0.00 sol 56 nodes 367
+L130 c12 f0 HARD seed 1 ease 0.00 sol 44 nodes 301
+L131 c12 f1 seed 1 ease 0.05 sol 39 nodes 64
+L132 c12 f0 hid seed 3 ease 0.15 sol 39 nodes 54
+L133 c12 f2 seed 2 ease 0.10 sol 43 nodes 660
+L134 c12 f0 hid seed 1 ease 0.00 sol 44 nodes 189
+L135 c12 f1 seed 5 ease 0.10 sol 39 nodes 49
+L136 c12 f0 seed 1 ease 0.00 sol 46 nodes 4925
+L137 c12 f2 hid seed 1 ease 0.00 sol 55 nodes 314
+L138 c12 f0 seed 4 ease 0.20 sol 42 nodes 74
+L139 c12 f1 hid seed 1 ease 0.05 sol 48 nodes 82
+L140 c12 f0 HARD seed 2 ease 0.00 sol 51 nodes 365
+L141 c12 f2 seed 5 ease 0.03 sol 48 nodes 221
+L142 c12 f0 hid seed 4 ease 0.03 sol 45 nodes 88
+L143 c12 f1 seed 4 ease 0.03 sol 44 nodes 399
+L144 c12 f0 hid seed 3 ease 0.03 sol 49 nodes 258
+L145 c12 f2 seed 4 ease 0.15 sol 51 nodes 74
+L146 c12 f0 seed 1 ease 0.00 sol 43 nodes 130
+L147 c12 f1 hid seed 5 ease 0.03 sol 43 nodes 47
+L148 c12 f0 seed 5 ease 0.05 sol 42 nodes 71
+L149 c12 f2 hid seed 4 ease 0.07 sol 51 nodes 693
+L150 c12 f0 HARD seed 1 ease 0.00 sol 43 nodes 381
+L151 c12 f1 seed 1 ease 0.00 sol 49 nodes 183
+L152 c12 f0 hid seed 5 ease 0.10 sol 41 nodes 42
+L153 c12 f2 seed 1 ease 0.05 sol 49 nodes 64
+L154 c12 f0 hid seed 3 ease 0.25 sol 43 nodes 47
+L155 c12 f1 seed 1 ease 0.07 sol 45 nodes 106
+L156 c12 f0 seed 1 ease 0.00 sol 45 nodes 126
+L157 c12 f2 hid seed 3 ease 0.03 sol 44 nodes 84
+L158 c12 f0 seed 1 ease 0.00 sol 43 nodes 12559
+L159 c12 f1 hid seed 4 ease 0.03 sol 40 nodes 45
+L160 c12 f0 HARD seed 2 ease 0.00 sol 40 nodes 237
+L161 c12 f2 seed 5 ease 0.05 sol 44 nodes 83
+L162 c12 f0 hid seed 1 ease 0.10 sol 46 nodes 78
+L163 c12 f1 seed 3 ease 0.05 sol 40 nodes 55
+L164 c12 f0 hid seed 2 ease 0.10 sol 44 nodes 130
+L165 c12 f2 seed 1 ease 0.03 sol 44 nodes 87
+L166 c12 f0 seed 2 ease 0.07 sol 40 nodes 43
+L167 c12 f1 hid seed 3 ease 0.05 sol 46 nodes 154
+L168 c12 f0 seed 1 ease 0.17 sol 44 nodes 69
+L169 c12 f2 hid seed 4 ease 0.05 sol 50 nodes 994
+L170 c12 f0 HARD seed 2 ease 0.00 sol 45 nodes 79
+L171 c12 f1 seed 3 ease 0.15 sol 40 nodes 43
+L172 c12 f0 hid seed 5 ease 0.07 sol 43 nodes 48
+L173 c12 f2 seed 3 ease 0.07 sol 46 nodes 136
+L174 c12 f0 hid seed 3 ease 0.07 sol 48 nodes 109
+L175 c12 f1 seed 2 ease 0.03 sol 44 nodes 101
+L176 c12 f0 seed 3 ease 0.15 sol 41 nodes 83
+L177 c12 f2 hid seed 5 ease 0.03 sol 44 nodes 71
+L178 c12 f0 seed 4 ease 0.05 sol 42 nodes 65
+L179 c12 f1 hid seed 1 ease 0.00 sol 39 nodes 58
+L180 c12 f0 HARD seed 2 ease 0.00 sol 44 nodes 131
+L181 c12 f2 seed 2 ease 0.07 sol 45 nodes 54
+L182 c12 f0 hid seed 1 ease 0.00 sol 42 nodes 54
+L183 c12 f1 seed 1 ease 0.05 sol 40 nodes 96
+L184 c12 f0 hid seed 1 ease 0.00 sol 40 nodes 42
+L185 c12 f2 seed 1 ease 0.00 sol 53 nodes 107
+L186 c12 f0 seed 3 ease 0.03 sol 41 nodes 139
+L187 c12 f1 hid seed 1 ease 0.23 sol 43 nodes 58
+L188 c12 f0 seed 5 ease 0.05 sol 49 nodes 100
+L189 c12 f2 hid seed 4 ease 0.10 sol 43 nodes 45
+L190 c12 f0 HARD seed 1 ease 0.00 sol 43 nodes 265
+L191 c12 f1 seed 2 ease 0.05 sol 44 nodes 175
+L192 c12 f0 hid seed 2 ease 0.20 sol 41 nodes 241
+L193 c12 f2 seed 3 ease 0.07 sol 49 nodes 87
+L194 c12 f0 hid seed 1 ease 0.05 sol 47 nodes 593
+L195 c12 f1 seed 4 ease 0.03 sol 52 nodes 104
+L196 c12 f0 seed 4 ease 0.03 sol 44 nodes 94
+L197 c12 f2 hid seed 1 ease 0.17 sol 39 nodes 71
+L198 c12 f0 seed 1 ease 0.00 sol 46 nodes 77
+L199 c12 f1 hid seed 1 ease 0.00 sol 44 nodes 84
+L200 c12 f0 HARD seed 2 ease 0.00 sol 45 nodes 155

@@ -1,0 +1,10 @@
+*.jks
+*.keystore
+node_modules/
+android-app/www/
+android-app/ios/App/App/public/
+web/index.html
+web/sw.js
+web/privacy.html
+web/terms.html
+shots/
