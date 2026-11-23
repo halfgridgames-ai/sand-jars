@@ -1303,17 +1303,17 @@ function withCtx(c, fn) { const real = ctx; ctx = c; try { fn(); } finally { ctx
    stand-in card and purchases are free test purchases, so every flow can be tried.
    Before launch, swap the Google test ad unit ids below for real ones from AdMob. */
 const PLATFORM = (window.Capacitor && Capacitor.getPlatform && Capacitor.getPlatform()) || 'web';
-// Google's public test units for now; swap in the real Sand Jars units from AdMob before launch (each platform has its own AdMob app).
+// Real Sand Jars ad units (AdMob apps: Android ~6399670547, iOS ~7712625908).
 const AD_UNITS = PLATFORM === 'ios'
-  ? { rewarded: 'ca-app-pub-3940256099942544/1712485313', interstitial: 'ca-app-pub-3940256099942544/4411468910' }
-  : { rewarded: 'ca-app-pub-3940256099942544/5224354917', interstitial: 'ca-app-pub-3940256099942544/1033173712' };
+  ? { rewarded: 'ca-app-pub-4390358547833612/6207972541', interstitial: 'ca-app-pub-4390358547833612/9123790821' }
+  : { rewarded: 'ca-app-pub-4390358547833612/3773380890', interstitial: 'ca-app-pub-4390358547833612/1147217556' };
 // App Store product ids are unique across the whole developer account, so the iPhone ids carry an sj_ prefix.
 const STORE_IDS = PLATFORM === 'ios' ? { remove_ads: 'sj_remove_ads', coins_600: 'sj_coins_600', coins_2500: 'sj_coins_2500', jar_pack: 'sj_jar_pack' } : {};
 const storeId = id => STORE_IDS[id] || id;
 const gameId = sid => Object.keys(STORE_IDS).find(k => STORE_IDS[k] === sid) || sid;
 // Firebase Analytics in the Android app (once google-services.json is added); does nothing elsewhere.
 function track(name, params) { try { const fa = window.Capacitor && Capacitor.isNativePlatform && Capacitor.isNativePlatform() && Capacitor.Plugins.FirebaseAnalytics; if (fa) fa.logEvent({ name, params: params || {} }).catch(() => {}); } catch (e) {} }
-const AD_TESTING = true;   // set false for the release build once real ad unit ids are in
+const AD_TESTING = false;   // real AdMob units on Android and iPhone
 const PRODUCTS = [
   { id: 'remove_ads', name: 'Remove ads', once: true, noAds: true, price: '£2.99', desc: 'No more ads between levels. Reward ads stay optional.' },
   { id: 'coins_600', name: '600 coins', coins: 600, price: '£0.99', desc: 'For hints, extra jars and undos.' },
