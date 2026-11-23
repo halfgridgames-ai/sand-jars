@@ -1,6 +1,6 @@
 # Sand Jars
 
-ASMR sand-sorting puzzle,, built 2026-11-22 as the top pick of our hit forecast:
+ASMR sand-sorting puzzle, built 2026-11-22 as the top pick of our hit forecast:
 AppMagic lists ASMR sand sorting on its 2027 watch list,
 sort revenue tripled year on year, and physics-feel sorts (Marble Sort, Sand Loop) are pulling ahead of flat ones.
 
